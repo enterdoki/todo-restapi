@@ -10,7 +10,3 @@ Usages:
 5. Mark item(s) as complete/incomplete
 6. Delete item(s) 
 7. Log out
-
-
-View the website here:
-http://uglytodo.herokuapp.com/
